@@ -23,6 +23,18 @@ This is a standalone Java application that is built using Gradle. The Gradle bui
 ### Testing
 For static bug detection and code clone detection, I made use of Sonarqube. SonarSource developed SonarQube, an open-source platform for finding bugs and bad code in more than 20 programming languages through static code analysis and continuous code quality assessment.
 
+![Screenshot 1](https://github.com/vanshika1009/CS5103-SoftwareEngineering/blob/main/Software%20Engineering%20screenshots/1.jpeg)
+
+
+![Screenshot 2](https://github.com/vanshika1009/CS5103-SoftwareEngineering/blob/main/Software%20Engineering%20screenshots/2.jpeg)
+
+
+![Screenshot 3](https://github.com/vanshika1009/CS5103-SoftwareEngineering/blob/main/Software%20Engineering%20screenshots/3.jpeg)
+
+
+![Screenshot 4](https://github.com/vanshika1009/CS5103-SoftwareEngineering/blob/main/Software%20Engineering%20screenshots/4.jpeg)
+
+
 ### Unit Test
 
 All the unit tests executed successfully and are given in the directory ./src/test/java/CS5103
